@@ -1,0 +1,55 @@
+{
+  "WorkingDir": "C:\\Users\\Thiago\\source\\repos\\Autovers",
+  "Keywords": [
+    {
+      "Key": "feat",
+      "Type": 2,
+      "Listable": true
+    },
+    {
+      "Key": "fix",
+      "Type": 1,
+      "Listable": true
+    },
+    {
+      "Key": "chore",
+      "Type": 0,
+      "Listable": false
+    },
+    {
+      "Key": "docs",
+      "Type": 0,
+      "Listable": false
+    },
+    {
+      "Key": "style",
+      "Type": 0,
+      "Listable": false
+    },
+    {
+      "Key": "refactor",
+      "Type": 0,
+      "Listable": false
+    },
+    {
+      "Key": "perf",
+      "Type": 0,
+      "Listable": false
+    },
+    {
+      "Key": "test",
+      "Type": 0,
+      "Listable": false
+    },
+    {
+      "Key": "build",
+      "Type": 0,
+      "Listable": false
+    },
+    {
+      "Key": "ci",
+      "Type": 0,
+      "Listable": false
+    }
+  ]
+}
